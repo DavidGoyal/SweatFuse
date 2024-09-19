@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/DavidGoyal/75Hard-Backend
+[submodule "client"]
+	path = client
+	url = https://github.com/DavidGoyal/75Hard-Frontend
